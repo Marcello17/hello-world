@@ -8,4 +8,4 @@ blue
 indigo
 violet
 
-This is the latest version
+This is the latest version 2
