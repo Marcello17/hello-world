@@ -7,6 +7,7 @@ green
 blue
 indigo
 violet
+Purple
 
 this is related to the unicorn
 
