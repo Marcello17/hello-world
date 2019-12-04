@@ -8,6 +8,6 @@ blue
 indigo
 violet
 
-this is related to the unicorn
+this is related to the unicorn AND pixies
 
 This is the latest version 2
